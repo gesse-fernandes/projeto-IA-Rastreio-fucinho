@@ -1,0 +1,9 @@
+flask
+sqlalchemy
+pymysql
+numpy
+opencv-python
+pillow
+torch
+torchvision
+ultralytics
